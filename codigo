@@ -1,0 +1,1 @@
+setInterval (function(){ document.getElementsByClassName("test")[0].click(); },300);
